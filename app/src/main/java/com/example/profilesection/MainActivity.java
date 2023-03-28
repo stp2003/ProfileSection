@@ -1,4 +1,4 @@
-package com.example.profilesection
+package com.example.profilesection;
 
 import androidx.appcompat.app.AppCompatActivity;
 
